@@ -1,0 +1,16 @@
+.apexcharts-canvas{
+    margin: auto !important;
+}
+
+#devicePageOuterDiv{
+    height: 100vh;
+}
+
+#devicepageRow{
+    padding-top: 3rem;
+}
+/* @media (min-width:768px) and (max-width:960px){
+    .apexcharts-canvas{
+        width: 60% !important;
+    }
+} */

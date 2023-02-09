@@ -1,0 +1,15 @@
+.homeDivRow{
+    height: 105vh;
+}
+
+#GpsClass{
+    padding-top: 2.5rem;
+}
+
+thead th,.page-item{
+    cursor: pointer;
+}
+
+tbody td i.fa-arrow-right-long{
+    cursor: pointer;
+}
